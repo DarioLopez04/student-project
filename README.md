@@ -1,1 +1,6 @@
-# student-project
+PROJECT TITLE: Ejemplo de prueba
+PROJECT DESCRIPTION: Proyecto de ejemplo para empezar a usar GitHub
+INSTALLATION INSTRUCTIONS:
+USAGE EXAMPLES:
+HOW TO CONTRIBUTE:
+CONTACT INFORMATION:
